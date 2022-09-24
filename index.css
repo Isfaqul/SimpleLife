@@ -149,7 +149,7 @@ img {
 }
 
 .about-me-container img {
-  aspect-ratio: 16/5;
+  aspect-ratio: 1;
   object-fit: cover;
   margin: 1em 0;
 }
